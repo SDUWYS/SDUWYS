@@ -1,7 +1,6 @@
 ### Hi 👋 I'm Yongshuai Wang
 
 
-Here are some ideas to get you started:
 
 - 🔭 I'm currently pursuing a master's degree at SDU
 - 🌱 I usually use JavaScript, Typescript、Java.
